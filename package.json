@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/robsonmagno2019/GoBarber.git",
   "author": "Robson Magno <robsonmagnosistemas@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
